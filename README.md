@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="مفتاح العبيدي — Moftah Alobidy, Arabic-first software from Libya" width="100%">
+  <img src="./assets/banner.png" alt="مفتاح العبيدي — Moftah Alobidy, full-stack developer, Benghazi, Libya" width="100%">
 </p>
 
 <h1 align="center">مفتاح العبيدي · Moftah Alobidy</h1>
